@@ -1,0 +1,7 @@
+{
+  "name": "@varna/mapbox-gl-draw",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/varna/mapbox-gl-draw.git"
+  }
+}
